@@ -1,3 +1,0 @@
-# discovery
-test
-localadd
